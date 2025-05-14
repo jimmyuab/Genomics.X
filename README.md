@@ -1,0 +1,1 @@
+Genomics.X is built upon and integrates functionalities from key R packages such as Seurat for single-cell data preprocessing and clustering, CellChat for cell-cell communication analysis, Monocle3 for trajectory inference, and SCENIC for regulatory network reconstruction. Additional dependencies are listed in the package documentation.
